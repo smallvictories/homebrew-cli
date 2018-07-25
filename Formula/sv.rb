@@ -1,5 +1,5 @@
 # Homebrew Formula class for Small Victories
-class SmallVictories < Formula
+class Sv < Formula
   desc 'Small Victories command line tool'
   homepage 'https://www.smallvictori.es'
   url 'https://github.com/smallvictories/sv-cli/archive/0.1.0.zip'
