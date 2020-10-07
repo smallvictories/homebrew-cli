@@ -2,9 +2,9 @@
 class Sv < Formula
   desc 'Small Victories command line tool'
   homepage 'https://www.smallvictori.es'
-  url 'https://github.com/smallvictories/sv-cli/archive/0.1.0.zip'
+  url 'https://github.com/smallvictories/sv-cli/releases/download/0.1.0/sv'
   version '0.1.0'
-  sha256 'f7368d1620e8657a3404bce003435a2a950d678d9ad4b4b8246169ce619fc041'
+  sha256 '226ff8bcc1c029f6459f42e1e1080d764d269e3652c9d509fcdb519cc617c98d'
 
   def install
     bin.install 'sv'
